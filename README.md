@@ -10,7 +10,7 @@ Aplicação criada para ser uma marktplace de coleta de resíduos, aproximando a
 ## Tecnologias utilizadas
 
 - NodeJs
-- ReactJs
+- React
 - React Native
 - Sqllite
 
