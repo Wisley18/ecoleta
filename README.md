@@ -5,7 +5,7 @@ Aplicação desenvolvida no evento Next Level Week.
 
 Aplicação criada para ser uma marktplace de coleta de resíduos, aproximando as empresas que coletam resíduos e recicláveis e a população.
 
-![Ecoleta](docs/Imagem-principal-ecoleta.png)
+![Ecoleta](docs/Imagem-principal-ecoleta.PNG)
 
 ## Tecnologias utilizadas
 
